@@ -1,5 +1,7 @@
 os:
   - linux 
+on:
+   [master]
 language: python
 python:
   - 3.8

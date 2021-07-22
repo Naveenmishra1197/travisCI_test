@@ -8,5 +8,5 @@ notifications:
   email:
     recipients:
       - naveenmishra1197@gmail.com
-    on_success: never
+    on_success: always
     on_failure: always

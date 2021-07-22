@@ -1,7 +1,8 @@
 os:
   - linux 
 on:
-   [master]
+  push:
+    branch : [master]
 language: python
 python:
   - 3.8

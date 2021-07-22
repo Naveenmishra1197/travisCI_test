@@ -5,7 +5,7 @@ python:
 script:
   - pytest
  after_script:
-     - echo "hello world"
+     - echo "hello"
 
 notifications:
   email:

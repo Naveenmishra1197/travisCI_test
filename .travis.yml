@@ -5,8 +5,6 @@ python:
   - 3.6
 script:
   - pytest
- after_script:
-     - echo "hello"
 
 notifications:
   email:
